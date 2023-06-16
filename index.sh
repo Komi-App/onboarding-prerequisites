@@ -18,7 +18,7 @@ gh auth login
 git clone https://github.com/Komi-app/onboarding
 
 echo "#####"
-echo "# Onboarding ready to go!
+echo "# Onboarding ready to go!"
 echo "###"
 echo
 echo "Run the following to begin the onboarding script:"
@@ -26,3 +26,4 @@ echo "  cd onboarding"
 echo "  sudo xattr -c ./configure.sh"
 echo "  ./configure.sh"
 echo
+
