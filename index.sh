@@ -9,4 +9,10 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Prerequisite installations
 brew install git
-brew install github
+brew install gh
+
+# Github authorization
+gh auth login
+
+# Onboarding script clone
+git clone https://github.com/Komi-app/onboarding
